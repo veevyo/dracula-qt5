@@ -12,13 +12,12 @@ All instructions can be found at [draculatheme.com/qt5](https://draculatheme.com
 
 This theme is maintained by Austin Kilgore, veevyo and a bunch of [awesome contributors](https://github.com/dracula/template/graphs/contributors).
 
-| [![Austin Kilgore](https://github.com/TechieAndroid.png?size=100)](https://github.com/TechieAndroid) |
-| ---------------------------------------------------------------------------------------------------- |
-| [Austin Kilgore (original theme maker)](https://github.com/TechieAndroid)|
+| [![Austin Kilgore](https://github.com/TechieAndroid.png?size=100)](https://github.com/TechieAndroid) || [![veevyo](https://github.com/veevyo.png?size=100)](https://github.com/veevyo) |
+| ---------------------------------------------------------------------------------------------------- || ---------------------------------------------------------------------------------------------------- |
+| [Austin Kilgore (original theme maker)](https://github.com/TechieAndroid)|| [veevyo (forker)](https://github.com/veevyo)|
 
-| [![veevyo](https://avatars.githubusercontent.com/u/41368076?v=4?size=100)](https://github.com/veevyo) |
-| ---------------------------------------------------------------------------------------------------- |
-| [veevyo (forker)](https://github.com/veevyo)|
+
+
 
 ## Community
 
