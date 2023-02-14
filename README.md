@@ -14,7 +14,11 @@ This theme is maintained by Austin Kilgore and a bunch of [awesome contributors]
 
 | [![Austin Kilgore](https://github.com/TechieAndroid.png?size=100)](https://github.com/TechieAndroid) |
 | ---------------------------------------------------------------------------------------------------- |
-| [Austin Kilgore](https://github.com/TechieAndroid)                                                   |
+| [Austin Kilgore (original theme maker)](https://github.com/TechieAndroid)                                                   |
+
+| [![veevyo](https://avatars.githubusercontent.com/u/41368076?v=4?size=100)](https://github.com/veevyo) |
+| ---------------------------------------------------------------------------------------------------- |
+| [veevyo (forker)](https://github.com/veevyo)                                                   |
 
 ## Community
 
